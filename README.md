@@ -15,6 +15,12 @@ A simple and fast URL shortener built using Next.js and MongoDB. Shorten long UR
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing links
 - [Tailwind CSS](https://tailwindcss.com/) – For styling the frontend
 
+## Notes
+- make a .env.local file and add the variables in it with their values
+- ```js
+  MONGODB_URI=[your atlas or local mongodb connection string]
+  NEXT_PUBLIC_HOST=http://localhost:3000/
+
 ## 📦 Getting Started
 
 1. Clone the repository:
