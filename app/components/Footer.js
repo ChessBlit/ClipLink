@@ -22,7 +22,7 @@ const Footer = () => {
                             The fastest and most reliable URL shortener. Create clean, professional short links in seconds.
                         </p>
                         <div className="flex gap-4">
-                            <Link href="https://github.com/chessBlit" className="w-10 h-10 bg-blue-700 hover:bg-blue-600 rounded-lg flex items-center justify-center transition-colors duration-200">
+                            <Link href="https://github.com/chessBlit/ClipLink" className="w-10 h-10 bg-blue-700 hover:bg-blue-600 rounded-lg flex items-center justify-center transition-colors duration-200">
                                 <Image src="/github.svg" alt="..." width={30} height={30}/>
                             </Link>
                         </div>
@@ -45,7 +45,7 @@ const Footer = () => {
                                 <span>All systems operational</span>
                             </div>
                             <div className="text-blue-200">
-                                Made with ❤️ by <Link href="https://github.com/chessBlit" className='underline'>ChessBlit</Link>
+                                Made with ❤️ by <Link href="https://github.com/ChessBlit" className='underline'>ChessBlit</Link>
                             </div>
                         </div>
                     </div>
