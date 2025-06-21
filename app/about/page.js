@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
+
 const AboutPage = () => {
   return (
     <div className="min-h-full bg-gradient-to-br from-blue-50 via-indigo-50 to-sky-100 text-gray-800">
